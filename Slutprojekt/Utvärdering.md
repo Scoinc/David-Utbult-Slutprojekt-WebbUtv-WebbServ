@@ -10,6 +10,7 @@ Hur gick det att göra det jag skulle göra?
 
 
 Gjorde jag det jag skulle göra i rätt ordning?
+
     Min plan var att sätta upp min HTML, fixa upp min CSS och sist fixa min backend
     Detta var ordningen jag gjorde det då jag först satte upp en basic HTML header och footer,
     fixade css för båda och sedan fortsatte lägga till saker på sidorna och
@@ -17,11 +18,13 @@ Gjorde jag det jag skulle göra i rätt ordning?
 
 
 Behövde jag ändra mig om vad jag bestämmde mig för?
+
     Jag bestämde mig att skriva min kod i SASS då jag är mer van vid CSS än jag är vid bootstrap och fixa min backend i EJS
     Det gick bra att göra min kod i SASS och det gick bra att sätta upp min backend med några problem som jag senare fixade med viss hjälp
 
 
 Hur gick uppgiften?
+
     Uppgiften i helhet gick bra då jag gjorde den största delen av arbetet långt innan deadline istället för att prokastinera det.
     Detta gav mig mycket tid att hitta och lösa problem som uppstod innan deadlinen och utsatte mig för väldigt lite stress.
     Problemen var få men kunde alla lösa sig och det största problemet var ovanhet vid javascript/EJS.
