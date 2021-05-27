@@ -25,3 +25,4 @@ Hur gick uppgiften?
     Uppgiften i helhet gick bra då jag gjorde den största delen av arbetet långt innan deadline istället för att prokastinera det.
     Detta gav mig mycket tid att hitta och lösa problem som uppstod innan deadlinen och utsatte mig för väldigt lite stress.
     Problemen var få men kunde alla lösa sig och det största problemet var ovanhet vid javascript/EJS.
+    
