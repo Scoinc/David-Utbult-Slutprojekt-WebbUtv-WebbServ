@@ -21,7 +21,7 @@ Gjorde jag det jag skulle göra i rätt ordning?
 Behövde jag ändra mig om vad jag bestämmde mig för?
 
     Jag bestämde mig att skriva min kod i SASS då jag är mer van vid CSS än jag är vid bootstrap och fixa min backend i EJS
-    Det gick bra att göra min kod i SASS och det gick bra att sätta upp min backend med några problem som jag senare fixade med viss hjälp
+    Det gick bra att göra min kod i SASS och det gick bra att sätta upp min backend med några problem som jag senare fixade.
 
 
 Hur gick uppgiften?
