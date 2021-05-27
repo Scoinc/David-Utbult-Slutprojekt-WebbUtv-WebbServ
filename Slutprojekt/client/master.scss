@@ -16,6 +16,12 @@ header{
     margin-bottom: 20px;
 }
 
+@media screen and (max-width: 800px) {
+    #backdrop{
+        height: 170px;
+    }
+}
+
 body{
     background-color: $notQuiteBlack;
 }
