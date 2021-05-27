@@ -3,6 +3,7 @@ Utvärdering av slutprojekt i Webbserver 1 och Webbutveckling 2
 
 
 Hur gick det att göra det jag skulle göra?
+
     Jag planerade för att göra en webbshop för gamingtillbehör.
     Som hemsida, medan jag inte hade shoppat på denna hemsida själv, fungerar den som den ska
     och förrutom att jämföra produkter så finns allting jag ville ha med, med.
