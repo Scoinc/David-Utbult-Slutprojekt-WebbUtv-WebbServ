@@ -45,6 +45,16 @@
       </form>
     </div>
 
+    <div class="messageBoard">
+        <% for( let index = 0; index < messages.length; index++ ) { %>
+        
+            <h3><%= messages[index].email %> </h3>
+            <p><%= messages[index].text %> </p>
+            <br>
+
+        <% } %>
+    </div>
+
     <div class="footer-collapsor">
         <footer>
             <h4><br>© 2021 David Utbult All Rights Reserved</h4>

@@ -24,12 +24,12 @@ app.set('view engine', 'ejs')
 //Lyssnar på GET requests på addressen <domain>/
 app.get("/messages", async (req, res) => {
   const messages = await MessageModel.getAllMessages();
-  res.render('pages/index.ejs', { names: messages });
+  res.render('pages/index.ejs', { messages: messages });
 })
 
 app.get('/index', (req, res) => {
   //rendera sidan index.ejs när klickad på i header
-  res.render('pages/index.ejs')
+  res.render('pages/index.ejs', { messages: [] })
 })
 
 app.get('/about', (req, res) => {
@@ -81,7 +81,7 @@ app.post('/', async (req, res) => {
   await dbModule.storeElement(message)
 
   //Ladda om sidan
-  res.redirect('/index')
+  res.redirect('/messages')
 })
 
 //Sätt igång servern så att den kan ta emot requests på vald port.
