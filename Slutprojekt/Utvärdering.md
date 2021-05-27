@@ -2,6 +2,7 @@ David Utbult
 Utvärdering av slutprojekt i Webbserver 1 och Webbutveckling 2
 
 
+
 Hur gick det att göra det jag skulle göra?
 
     Jag planerade för att göra en webbshop för gamingtillbehör.
